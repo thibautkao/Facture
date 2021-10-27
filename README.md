@@ -7,6 +7,7 @@ and end dates of the rental and the category of the vehicle.
 
 Once the three fields have been filled in, the program calculates the amount of the invoice and the bonus points that you have 
 according to your choice.
+
 For the date format during execution, choose this format: YYYY-MM-DD
 Example: 2021-10-28
 
